@@ -1,0 +1,16 @@
+com\kgisl\ws\entity\WorkLog.class
+com\kgisl\ws\service\UserService.class
+com\kgisl\ws\controller\WorkLogController.class
+com\kgisl\ws\service\WorkLogServiceImp.class
+com\kgisl\ws\controller\UserController.class
+com\kgisl\ws\repository\Alltaskrepository.class
+com\kgisl\ws\repository\WorkLogRepository.class
+com\kgisl\ws\service\WorkLogService.class
+com\kgisl\ws\entity\AllTask.class
+com\kgisl\ws\service\AllTaskService.class
+com\kgisl\ws\controller\AllTaskController.class
+com\kgisl\ws\WsApplication.class
+com\kgisl\ws\entity\User.class
+com\kgisl\ws\service\AllTaskServiceImp.class
+com\kgisl\ws\repository\UserRepository.class
+com\kgisl\ws\service\UserServiceImp.class
